@@ -29,8 +29,11 @@ This project is build in Android with Kotlin Language using Espresso UI Framewor
 Basic level push can get using this project, It primarily contains:-
 
 -> Activity Launch, Display Test cases
+
 -> Views find, View Perform Actions Test cases on Button, Edittext Typing etc.
+
 -> RecyclerView Testcases
+
 -> Action /or  Testcases on Menus and Overflow menus in Android
 
 This project has 2 Activities, 1 Fab Button, EditText, Menu options, Recycler-view with local Data Source etc
